@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Anita Kumari
 
-<!--
-**anithakumari2004/anithakumari2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | Aspiring Data Analyst & Data Scientist  
+   Passionate about transforming raw data into meaningful insights and intelligent solutions  
 
-Here are some ideas to get you started:
+## 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strong foundation in Data Analytics, Machine Learning & Statistics  
+- Skilled in solving real-world problems using data-driven approaches  
+- Interested in Business Intelligence, AI, and predictive modeling  
+- Continuously learning and building impactful projects  
+
+## 🛠️ Skills & Technologies
+
+# Programming & Data Handling
+- Python
+- SQL
+- Advanced Excel
+
+### 📊 Data Visualization & BI Tools
+- Power BI
+- Tableau
+- Excel Dashboards
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning
+- Data Preprocessing
+- Model Evaluation & Optimization
+
+### 📚 Mathematics & Statistics
+- Probability & Distributions
+- Hypothesis Testing
+- Regression Analysis
+- Linear Algebra
+
+## 📌 Featured Projects
+
+-  HR Analytics Dashboard (Power BI)  
+-  Sales Insights Dashboard (Tableau)  
+-  Face Detection System using Machine Learning  
+-  Data Analysis using Python & SQL  
+
+
+## 🎯 Career Objective
+
+To leverage my analytical skills, technical knowledge, and problem-solving ability  
+to contribute to data-driven decision-making in a growth-oriented organization.
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/anita-kumari-3638b5236
+- 📧 Email: anitakumari48281@gmail.com 
+
+## ⚡ Personal Note
+
+I believe data is the new oil, and I aim to extract meaningful insights  
+that drive smarter decisions and innovation.
